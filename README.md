@@ -169,3 +169,9 @@ You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 </details>
+
+
+## Heroku Deployment 💜
+The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jsksoakala/LEGENDBOT)
